@@ -1,5 +1,5 @@
 {
-  "name": "animated-scrollable-screen",
+  "name": "react-native-animated-scrollable-screen",
   "version": "1.0.0",
   "description": "Scrollable screen wrapper with header animation and sticky section",
   "main": "index.js",
@@ -14,7 +14,12 @@
     "React",
     "Native",
     "Typescript",
-    "JavaScript"
+    "JavaScript",
+    "animation",
+    "scrollable",
+    "Wrapper",
+    "ios",
+    "android"
   ],
   "author": "Ahmed Ashry",
   "license": "ISC",

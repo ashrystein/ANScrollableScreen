@@ -42,47 +42,51 @@ import { ANScrollableScreen } from 'react-native-animated-scrollable-screen'
 
 # Props
 ```
-ExtentionComp
-```
-Custom React component
-```
-StickyComp
-```
-Custom React component
-
-LeftHeaderComp
-```
-Custom React component
-
-RightHeaderComp
-```
-Custom React component
-
-SubHeaderIconComp
+ExtentionComp Optional
 ```
 Custom React component
 
 ```
-RenderDataItems
+StickyComp Optional
+```
+Custom React component
+
+```
+LeftHeaderComp Optional
+```
+Custom React component
+
+```
+RightHeaderComp Optional
+```
+Custom React component
+
+```
+SubHeaderIconComp Optional
+```
+Custom React component
+
+```
+RenderDataItems Optional
 ```
 Function to render list items
 
 ```
-imageURI
+imageURI Optional
 ```
 Remote image source
 
 ```
-imageSrc
+imageSrc Optional
 ```
 Local image source
 
 ```
-avatarContainerStyle
+avatarContainerStyle Optional
 ```
 Custom style to the main image container
 
 ```
-headerContainerStyle
+headerContainerStyle Optional
 ```
 Custom style to the header container

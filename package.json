@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-scrollable-screen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scrollable screen wrapper with header animation and sticky section",
   "main": "index.js",
   "scripts": {

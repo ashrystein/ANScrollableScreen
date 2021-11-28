@@ -1,6 +1,8 @@
 # react-native-animated-scrollable-screen
 Lightweight Scrollable screen wrapper with header animation and sticky section.
 
+# 100% written in TypeScript
+
 https://user-images.githubusercontent.com/38687453/143775880-d67f14c1-2ba1-4f7a-aeb6-2fe57dacd7b4.mp4
 
 # Installation

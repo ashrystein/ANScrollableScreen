@@ -1,0 +1,30 @@
+{
+  "name": "react-native-animated-scrollable-screen",
+  "version": "1.0.0",
+  "description": "Scrollable screen wrapper with header animation and sticky section",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashrystein/ANScrollableScreen.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Typescript",
+    "JavaScript",
+    "animation",
+    "scrollable",
+    "Wrapper",
+    "ios",
+    "android"
+  ],
+  "author": "Ahmed Ashry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashrystein/ANScrollableScreen/issues"
+  },
+  "homepage": "https://github.com/ashrystein/ANScrollableScreen#readme"
+}

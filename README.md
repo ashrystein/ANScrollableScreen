@@ -3,7 +3,7 @@ Lightweight Scrollable screen wrapper with header animation and sticky section.
 
 # 100% written in TypeScript
 
-https://user-images.githubusercontent.com/38687453/143775880-d67f14c1-2ba1-4f7a-aeb6-2fe57dacd7b4.mp4
+![RNScrollableScreen](https://user-images.githubusercontent.com/38687453/198964422-24a6aaf6-2d4c-4d43-b592-2fc6418d4fed.gif)
 
 # Installation
 ```
